@@ -18,9 +18,8 @@
 
 Some text here
 
-​```python
-# code block with syntax highlighting
-print("salam")
+​```
+python print("salam")
 ​```
 
 More text after
