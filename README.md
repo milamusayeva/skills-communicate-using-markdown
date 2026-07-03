@@ -16,13 +16,18 @@
 
 `inline code`
 
+Some text here
+
 ​```python
 # code block with syntax highlighting
-print("hello world")
+print("salam")
 ​```
 
-[Link text](https://example.com)
-![Image alt text](https://example.com/image.png)
+More text after
+
+[Link text](https://github.com)
+
+![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 > Blockquote
 
