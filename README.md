@@ -1,16 +1,11 @@
-# Communicate using Markdown
+# H1        ## H2        ### H3
+**bold**    *italic*     `code`
+- bullet    1. numbered
+- [ ] todo  - [x] done
+[text](url)         ![alt](image-url)
+> quote
+| A | B |
+|---|---|
+```code```` block: wrap in triple backticks, optionally with a language tag right after the first backticks, e.g. ```python
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
-Hey milamusayeva!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/milamusayeva/skills-communicate-using-markdown/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+That's the full toolkit — clone, edit, add, commit, push, pull is the loop you'll repeat for every homework going forward.
