@@ -1,11 +1,31 @@
-# H1        ## H2        ### H3
-**bold**    *italic*     `code`
-- bullet    1. numbered
-- [ ] todo  - [x] done
-[text](url)         ![alt](image-url)
-> quote
-| A | B |
-|---|---|
-```code```` block: wrap in triple backticks, optionally with a language tag right after the first backticks, e.g. ```python
+# Heading 1
+## Heading 2
+### Heading 3
 
-That's the full toolkit — clone, edit, add, commit, push, pull is the loop you'll repeat for every homework going forward.
+**bold text**
+*italic text*
+
+- Bullet point
+- Another bullet
+
+1. Numbered item
+2. Another item
+
+- [ ] Unchecked task
+- [x] Completed task
+
+`inline code`
+
+​```python
+# code block with syntax highlighting
+print("hello world")
+​```
+
+[Link text](https://example.com)
+![Image alt text](https://example.com/image.png)
+
+> Blockquote
+
+| Column A | Column B |
+|----------|----------|
+| data     | data     |
